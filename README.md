@@ -43,6 +43,8 @@ Multi Game Hub. Some srcipts require a key sadly, but its worth getting the key 
  
  # Status
  
+ <h2>🟢Working 🟡W.I.P. 🔴Not Working</h2>
+ 
  <table>
 <thead>
 <tr>
@@ -53,55 +55,55 @@ Multi Game Hub. Some srcipts require a key sadly, but its worth getting the key 
 <tbody>
 <tr>
 <td>Zombie Rush</td>
-<td><h1>Working</h1></td>
+<td><h1>🟢</h1></td>
 </tr>
 <tr>
 <td>Zombie Attack</td>
-<td><h1>Working</h1></td>
+<td><h1>🟢</h1></td>
 </tr>
 <tr>
 <td>Kat</td>
-<td><h1>Working</h1></td>
+<td><h1>🟢</h1></td>
 </tr>
 <tr>
 <td>Legends of Speed</td>
-<td><h1>Working</h1></td>
+<td><h1>🟢</h1></td>
 </tr>
 <tr>
 <td>Arsenal</td>
-<td><h1>Working</h1></td>
+<td><h1>🟢</h1></td>
 </tr>
 <tr>
 <td>Blox Fruits</td>
-<td><h1>Working</h1></td>
+<td><h1>🟢</h1></td>
 </tr>
 <tr>
 <td>Big Paintball</td>
-<td><h1>Working</h1></td>
+<td><h1>🟢</h1></td>
 </tr>
 <tr>
 <td>Mad City</td>
-<td><h1>Working</h1></td>
+<td><h1>🟢</h1></td>
 </tr>
 <tr>
 <td>Giant Survival</td>
-<td><h1>Working</h1></td>
+<td><h1>🟢</h1></td>
 </tr>
 <tr>
 <td>PSX</td>
-<td><h1>Working</h1></td>
+<td><h1>🟢</h1></td>
 </tr>
 <tr>
 <td>Pet Rift</td>
-<td><h1>Working</h1></td>
+<td><h1>🟢</h1></td>
 </tr>
 <tr>
 <td>Sharkbite 2</td>
-<td><h1>Working</h1></td>
+<td><h1>🟢</h1></td>
 </tr>
 <tr>
 <td>Murder Mystery 2</td>
-<td><h1>Working</h1></td>
+<td><h1>🟢</h1></td>
 </tr>
 </tbody>
 </table>
