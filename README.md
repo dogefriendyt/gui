@@ -8,7 +8,7 @@ Multi Game Hub
  
  # Kick Script
  
- If your friend has good progress or is winning in something grief them with this ;) [ it kicks them out of the game ]
+ If your friend has good progress or is winning in something grief them with this ;) **it kicks them out of the game.**
  
 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/0exo/gui/main/vghu", true))();```
  
