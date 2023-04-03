@@ -4,7 +4,7 @@ Multi Game Hub
 
 # Loadstring
 
- loadstring(game:HttpGet("https://raw.githubusercontent.com/0exo/gui/main/load", true))();
+ ```loadstring(game:HttpGet("https://raw.githubusercontent.com/0exo/gui/main/load", true))();```
  
  # Supported Games
  
