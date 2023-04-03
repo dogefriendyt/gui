@@ -1,6 +1,6 @@
-# GUI
+# The Hub
 
-Multi Game GUI
+Multi Game Hub
 
 # Loadstring
 
