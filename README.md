@@ -1,6 +1,6 @@
 # The Hub
 
-Multi Game Hub
+Multi Game Hub. Some srcipts require a key sadly, but its worth getting the key for them!
 
 # Loadstring
 
