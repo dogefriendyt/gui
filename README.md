@@ -6,6 +6,12 @@ Multi Game Hub
 
  ```loadstring(game:HttpGet("https://raw.githubusercontent.com/0exo/gui/main/load", true))();```
  
+ # Kick Script
+ 
+ If your friend has good progress or is winning in something grief them with this ;)
+ 
+```loadstring(game:HttpGet("https://raw.githubusercontent.com/0exo/gui/main/load", true))();```
+ 
  # Supported Games
  
 <h3>Zombie Rush</h3>
