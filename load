@@ -1,0 +1,23 @@
+local Games = {
+   [137885680] = "https://raw.githubusercontent.com/0exo/dump/main/zombierush",
+   [4301323950] = "https://raw.githubusercontent.com/0exo/dump/main/zombierush",
+   [1240123653] = "https://raw.githubusercontent.com/0exo/dump/main/zombieattack",
+   [1632210982] = "https://raw.githubusercontent.com/0exo/dump/main/zombieattack",
+   [621129760] = "https://raw.githubusercontent.com/0exo/dump/main/kat",
+   [3101667897] = "https://raw.githubusercontent.com/0exo/dump/main/legendspeed",
+   [286090429] = "https://raw.githubusercontent.com/0exo/dump/main/arsenal",
+   [2753915549] = "https://raw.githubusercontent.com/0exo/dump/main/bloxfruits",
+   [3527629287] = "https://raw.githubusercontent.com/0exo/dump/main/bigpaintball",
+   [1224212277] = "https://raw.githubusercontent.com/0exo/dump/main/madcity",
+   [4003872968] = "https://raw.githubusercontent.com/0exo/dump/main/giantsurvival",
+   [6284583030] = "https://raw.githubusercontent.com/0exo/dump/main/psx",
+   [11448052802] = "https://raw.githubusercontent.com/0exo/dump/main/petrift",
+   [8908228901] = "https://raw.githubusercontent.com/0exo/dump/main/sb2",
+   [142823291] = "https://raw.githubusercontent.com/0exo/dump/main/mm2",
+}
+
+if Games[game.PlaceId] then
+    loadstring(game:HttpGet(Games[game.PlaceId]))()
+else
+ game.Players.LocalPlayer:Kick("Really nigga?")
+end
