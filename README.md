@@ -9,31 +9,31 @@ Multi Game GUI
  # Supported Games
  
 <h3>Zombie Rush</h3>
-<br>
+
 <h3>Zombie Attack</h3>
-<br>
+
 <h3>Kat</h3>
-<br>
+
 <h3>Legends of Speed</h3>
-<br>
+
 <h3>Arsenal</h3>
-<br>
+
 <h3>Blox Fruits</h3>
-<br>
+
 <h3>Big Paintball</h3>
-<br>
+
 <h3>Mad City</h3>
-<br>
-<h3>Gaitn Survival</h3>
-<br>
+
+<h3>Giant Survival</h3>
+
 <h3>Pet Simulator X</h3>
-<br>
+
 <h3>Pet Rifts</h3>
-<br>
+
 <h3>Sharkbite 2</h3>
-<br>
+
 <h3>Murder Mystery 2</h3>
-<br>
+
  
  # Status
  
