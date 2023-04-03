@@ -2,7 +2,7 @@
 
 Multi Game Hub. Some srcipts require a key sadly, but its worth getting the key for them!
 
-# Loadstring
+# Hub Script
 
  ```loadstring(game:HttpGet("https://raw.githubusercontent.com/0exo/gui/main/load", true))()```
  
