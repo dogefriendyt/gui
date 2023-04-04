@@ -15,6 +15,7 @@ local Games = {
    [8908228901] = "https://raw.githubusercontent.com/0exo/dump/main/sb2",
    [142823291] = "https://raw.githubusercontent.com/0exo/dump/main/mm2",
    [3398014311] = "https://raw.githubusercontent.com/0exo/dump/main/rt2",
+   [4490140733] = "https://raw.githubusercontent.com/0exo/dump/main/myrestaurant",
 }
 
 if Games[game.PlaceId] then
