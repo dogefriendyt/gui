@@ -3,7 +3,7 @@
 local Games = {
    [137885680] = "https://raw.githubusercontent.com/0exo/dump/main/zombierush",
    [4301323950] = "https://raw.githubusercontent.com/0exo/dump/main/zombierush",
-   [1240123653] = "https://raw.githubusercontent.com/0exo/dump/main/zombieattack",
+   [1240123653] = "https://raw.githubusercontent.com/0exo/dump/main/zombieattackvoidz",
    [1632210982] = "https://raw.githubusercontent.com/0exo/dump/main/zombieattack",
    [621129760] = "https://raw.githubusercontent.com/0exo/dump/main/kat",
    [3101667897] = "https://raw.githubusercontent.com/0exo/dump/main/legendspeed",
