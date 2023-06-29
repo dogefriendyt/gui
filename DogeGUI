@@ -4,7 +4,7 @@ local w = library:CreateWindow("Doge Friend") -- Creates the window
 
 local b = w:CreateFolder("Scripts")
 
-local b = w:CreateFolder
+local c = w:CreateFolder("Teleport")
 
 b:Label("Main",{
     TextSize = 20; -- Self Explaining
@@ -25,19 +25,19 @@ b:Button("Anti AFK",function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/dogefriendyt/gui/main/antiafk'))()
 end)
 
-b:Label("Teleport",{
+c:Label("Extra",{
     TextSize = 20; -- Self Explaining
     TextColor = Color3.fromRGB(255,255,255); -- Self Explaining
     BgColor = Color3.fromRGB(69,69,69); -- Self Explaining
     
 }) 
 
-b:Button("Teleport GUI",function()
+c:Button("Teleport GUI",function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/dogefriendyt/gui/main/tp'))()
 end)
 
-b:Button("Hardcore Mode",function()
+c:Button("Hardcore Mode",function()
     game:GetService("TeleportService"):Teleport(4301323950)
 end)
 
-b:DestroyGui()
+c:DestroyGui()
