@@ -4,13 +4,13 @@ Multi Game Hub. Some srcipts require a key sadly, but its worth getting the key 
 
 # Hub Script
 
- ```loadstring(game:HttpGet("https://raw.githubusercontent.com/0exo/gui/main/load", true))()```
+ ```loadstring(game:HttpGet("https://raw.githubusercontent.com/dogefriendyt/gui/main/load", true))()```
  
  # Kick Script
  
  If your friend has good progress or is winning in something grief them with this ;) **it kicks them out of the game.**
  
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/0exo/gui/main/vghub", true))()```
+```loadstring(game:HttpGet("https://raw.githubusercontent.com/dogefriendyt/gui/main/vghub", true))()```
  
  # Supported Games
  
