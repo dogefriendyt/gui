@@ -2,9 +2,7 @@ local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/bloo
 
 local w = library:CreateWindow("Doge Friend") -- Creates the window
 
-local b = w:CreateFolder("Scripts")
-
-local c = w:CreateFolder("Teleport")
+local b = w:CreateFolder("Zombie Rush")
 
 b:Label("Main",{
     TextSize = 20; -- Self Explaining
