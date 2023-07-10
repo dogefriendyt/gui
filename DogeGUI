@@ -13,7 +13,7 @@ b:Label("Main",{
     
 }) 
 
-b:Button("Zombie Rush Mod",function()
+b:Button("Slammin Pig",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/SlamminPig/rblxgames/main/Zombie%20Rush/ZombieRushGUI"))()
 end)
 
@@ -21,23 +21,16 @@ b:Button("V.G. Hub",function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
 end)
 
+b:Button("Owl Hub",function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+end)
+
 b:Button("Anti AFK",function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/dogefriendyt/gui/main/antiafk'))()
 end)
 
-c:Label("Extra",{
-    TextSize = 20; -- Self Explaining
-    TextColor = Color3.fromRGB(255,255,255); -- Self Explaining
-    BgColor = Color3.fromRGB(69,69,69); -- Self Explaining
-    
-}) 
-
-c:Button("Teleport GUI",function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/dogefriendyt/gui/main/tp'))()
-end)
-
-c:Button("Hardcore Mode",function()
+b:Button("Hardcore Mode",function()
     game:GetService("TeleportService"):Teleport(4301323950)
 end)
 
-c:DestroyGui()
+b:DestroyGui()
